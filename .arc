@@ -1,9 +1,7 @@
-# Warning: do not edit
-# --------------------
-# This is a generated file and will be overwritten
-
 @app
-begin-app
+nature-6w2
+
+@static
 
 @http
 get /
